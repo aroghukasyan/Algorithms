@@ -1,0 +1,13 @@
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.exe
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.deps.json
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.runtimeconfig.json
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.runtimeconfig.dev.json
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.dll
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\bin\Debug\netcoreapp3.1\Palindrome_02_03_21.pdb
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.csprojAssemblyReference.cache
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.csproj.CoreCompileInputs.cache
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.AssemblyInfoInputs.cache
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.AssemblyInfo.cs
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.dll
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.pdb
+F:\repos_C#_.NET\Algorithms\Palindrome_02_03_21\obj\Debug\netcoreapp3.1\Palindrome_02_03_21.genruntimeconfig.cache
