@@ -13,11 +13,11 @@ namespace Palindrome_02_03_21
                 Console.Write("Enter your text for cheking: ");
                 str = Console.ReadLine();
                 if (IsPalindrome(str))
-                    Console.WriteLine("text is Palindrom");
+                    Console.WriteLine("Text is Palindrom");
                 else
                 {
                     Console.BackgroundColor = ConsoleColor.Red;
-                    Console.WriteLine("text is'nt Palindrom");
+                    Console.WriteLine("Text is'nt Palindrom");
                     Console.BackgroundColor = ConsoleColor.Black;
                 }
             }

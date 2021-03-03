@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\Palindrome_02_03_21.csproj",
+      "projectUniqueName": "G:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\Palindrome_02_03_21.csproj",
       "projectName": "Palindrome_02_03_21",
-      "projectPath": "F:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\Palindrome_02_03_21.csproj",
+      "projectPath": "G:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\Palindrome_02_03_21.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "F:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\obj\\",
+      "outputPath": "G:\\repos_C#_.NET\\Algorithms\\Palindrome_02_03_21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
