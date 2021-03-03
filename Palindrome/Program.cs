@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading.Tasks.Dataflow;
 
 namespace Palindrome_02_03_21
 {
@@ -13,7 +12,9 @@ namespace Palindrome_02_03_21
                 Console.Write("Enter your text for cheking: ");
                 str = Console.ReadLine();
                 if (IsPalindrome(str))
+                {
                     Console.WriteLine("Text is Palindrom.");
+                }
                 else
                 {
                     Console.BackgroundColor = ConsoleColor.Red;
@@ -26,7 +27,8 @@ namespace Palindrome_02_03_21
         {
             int length = str.Length;
             int i = 0;
-            while (true) {
+            while (true)
+            {
                 length--;
                 if (i >= length)
                     break;
@@ -35,7 +37,7 @@ namespace Palindrome_02_03_21
                     return false;
                 }
                 i++;
-            } 
+            }
             return true;
         }
     }
